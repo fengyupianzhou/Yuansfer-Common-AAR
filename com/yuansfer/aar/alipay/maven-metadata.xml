@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.yuansfer.aar</groupId>
-  <artifactId>alipay</artifactId>
+  <artifactId>alipaySdk</artifactId>
   <version>15.5.9</version>
   <versioning>
     <latest>15.5.9</latest>
